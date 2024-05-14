@@ -4,6 +4,10 @@
 
 - <b>Azure/Cloud Cybersecurity Projects</b>
   - [Creating alive SOC/Honeynet in Azure ](https://github.com/TikvaAlayo/Cloud-SOC)
+    
+- <b>Email analysis project:<b>
+  - https://github.com/TikvaAlayo/Email_Analysis
+
 
 
 [linkedin]: https://www.linkedin.com/in/tikva-alayo-danzinger-b3b906185/
