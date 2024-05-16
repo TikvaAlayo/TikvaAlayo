@@ -6,7 +6,7 @@
   - [Creating alive SOC/Honeynet in Azure ](https://github.com/TikvaAlayo/Cloud-SOC)
     
 - <b>Email analysis project:<b>
-  - https://github.com/TikvaAlayo/Email_Analysis
+  - [https://github.com/TikvaAlayo/Email_Analysis](https://github.com/TikvaAlayo/Email_Analysis-)
 
 
 
